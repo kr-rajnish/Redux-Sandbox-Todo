@@ -1,0 +1,10 @@
+1. Install react-redux, redux and @reduxjs/toolkit
+2. configure Store.
+  2.1 Go to store.js file in redux folder
+3. Connect the store to application
+  3.1 Use Provider to tell the application the store which you want to use 
+4. Store needs Reducers. to Create One, we will define slices
+for each and every feature of our application.
+This can be lokked in slice folder
+
+5. Each slice needs a name, initialState and reducer
